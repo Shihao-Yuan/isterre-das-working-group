@@ -12,8 +12,6 @@ YYYY-MM-DD.md
 
 Example: [`2026-10-05.md`](2026-10-05.md)
 
-Copy a recent meeting file for the next one. Use the sections below; write `None` when there is nothing to record yet.
-
 ## Agenda sections
 
 1. **Meeting details** — date, start/end time, room, online link, chair, note-taker
