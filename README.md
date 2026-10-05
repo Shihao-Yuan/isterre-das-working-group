@@ -27,7 +27,6 @@ Use [GitHub Discussions](https://github.com/Shihao-Yuan/isterre-das-working-grou
 - **Instrument booking:** [ISTerre DAS Instrument Booking Request – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=6hRaR-ASWkukLBD-bY1wf1Fb7NgBEdtCimKwOaSIvnhUREtXVTZXS1ROVjgxRzIwUUw3OFRZOFJWVy4u)
 - **Seminar program:** [ISTerre–DAS Working Group Seminar Program](https://univgrenoble-my.sharepoint.com/:w:/g/personal/yuans_azure_univ-grenoble-alpes_fr/IQCuq2juSx7OSrFbRuVS40POAbpp0gTsiAgLcY7L-pzKUjc?e=R4UyP8)
 - **Seminar speaker suggestions:** [ISTerre DAS seminars — Suggest a speaker – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=6hRaR-ASWkukLBD-bY1wf1Fb7NgBEdtCimKwOaSIvnhURFRLVEtRNTZTSDlMSEYyVVk0NjRTRVQyMS4u)
-- **Shared resources:** https://github.com/Shihao-Yuan/isterre-das-working-group
 - **Repository coordination:** [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
 - **Working group coordination:** [Luc Moutote](mailto:luc.moutote@univ-grenoble-alpes.fr), [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
 - **Instrument coordination:** [Ludovic Moreau](mailto:ludovic.moreau@univ-grenoble-alpes.fr), [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
