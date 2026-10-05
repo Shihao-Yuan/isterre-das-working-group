@@ -30,4 +30,4 @@ Use [GitHub Discussions](https://github.com/Shihao-Yuan/isterre-das-working-grou
 - **Shared resources:** https://github.com/Shihao-Yuan/isterre-das-working-group
 - **Repository coordination:** [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
 - **Working group coordination:** [Luc Moutote](mailto:luc.moutote@univ-grenoble-alpes.fr), [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
-- **Instrument coordination:** [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
+- **Instrument coordination:** [Ludovic Moreau](mailto:ludovic.moreau@univ-grenoble-alpes.fr), [Shihao Yuan](mailto:shihao.yuan@univ-grenoble-alpes.fr)
