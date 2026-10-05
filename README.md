@@ -21,7 +21,7 @@ Use [GitHub Discussions](https://github.com/Shihao-Yuan/isterre-das-working-grou
 ## Useful links
 
 - **Mailing list:** [isterre-das@univ-grenoble-alpes.fr](mailto:isterre-das@univ-grenoble-alpes.fr)
-- **Meeting agendas:**
+- **Meeting agendas:** [`meetings/`](meetings/)
 - **Seminar virtual link:** [https://visio.numerique.gouv.fr/uvw-nicl-mjc](https://visio.numerique.gouv.fr/uvw-nicl-mjc)
 - **Check the current booking schedule:** [ISTerre-DAS-Timeline.xlsx](https://univgrenoble-my.sharepoint.com/:x:/g/personal/yuans_azure_univ-grenoble-alpes_fr/IQDDP1OsYW6nTrQtrkzB4FfjASuEaSyymnGhDXKvH7KuHeQ?e=TtX74V)
 - **Instrument booking:** [ISTerre DAS Instrument Booking Request – Fill out form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=6hRaR-ASWkukLBD-bY1wf1Fb7NgBEdtCimKwOaSIvnhUREtXVTZXS1ROVjgxRzIwUUw3OFRZOFJWVy4u)
